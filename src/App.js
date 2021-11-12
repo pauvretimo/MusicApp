@@ -3,7 +3,7 @@ import * as $ from "jquery";
 import { authEndpoint, clientId, redirectUri, scopes } from "./config";
 import hash from "./hash";
 import Player from "./Player";
-import logo from "./logo.svg";
+import logo from "./logo_cyberlog.svg";
 import "./App.css";
 
 class App extends Component {
